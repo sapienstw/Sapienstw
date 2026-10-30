@@ -58,9 +58,6 @@ Research code accompanying **“Cell Type Prediction with Neighborhood-Enhanced 
 
 [Explore the repository →](https://github.com/Sapienstw/deep-CT)
 
-## GitHub activity
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sapienstw&show_icons=true&hide_border=true)](https://github.com/Sapienstw)
 
 ## Computational toolkit
 
