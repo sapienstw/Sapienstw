@@ -1,75 +1,85 @@
+<div align="center">
+
 # Nam N. Phan, PhD
 
-### Computational Biology · AI for Biomedical Research · Spatial Omics
+### Computational Biology | Spatial Omics | AI in Oncology
 
-**Bridging machine learning, pathology imaging, and multi-omics to understand cancer biology**
+**Developing computational approaches that connect tissue morphology, single-cell biology, and molecular mechanisms of cancer.**
 
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=0bEF7TYAAAAJ&hl=en)
-[![GitHub](https://img.shields.io/badge/GitHub-Sapienstw-181717?style=flat-square&logo=github)](https://github.com/Sapienstw)
+[Google Scholar](https://scholar.google.com/citations?user=0bEF7TYAAAAJ&hl=en) · [GitHub](https://github.com/Sapienstw) · [Research Profile](https://opa.uthscsa.edu/postdoc-profiles/nam-phan)
 
+</div>
 
-## About me
+---
 
-I am a computational biologist working at the intersection of **bioinformatics, artificial intelligence, digital pathology, and multi-omics**. My research develops and applies computational approaches to analyze molecular and imaging data, with a focus on cancer biology, tumor heterogeneity, and the tumor microenvironment.
+## Latest news
 
-My interests span spatially resolved transcriptomics, single-cell analysis, deep learning on histopathology, and integration of molecular measurements with tissue morphology.
+- **September 2026 | New publication:** [Spatial Transcriptomic Profiling Identifies Epithelial Heterogeneity and a Potential Lineage-Associated Marker in Breast Mucinous Cystadenocarcinoma](https://doi.org/10.32604/or.2026.081243), *Oncology Research* (online first). Using Visium HD spatial transcriptomics, the study characterizes epithelial tumor heterogeneity and identifies **MUC5B** as a potential lineage-associated diagnostic biomarker.
+- **2025 | New publication:** [Cell Type Prediction with Neighborhood-Enhanced Cellular Embedding Using Deep Learning on H&E-Stained Images](https://doi.org/10.1016/j.csbj.2025.07.026), *Computational and Structural Biotechnology Journal*. [Research code: Deep-CT](https://github.com/Sapienstw/deep-CT).
 
-## Research interests
+<!-- Add future confirmed news above, newest first. Suggested format:
+- **YYYY-MM-DD | Invited talk:** “Talk title,” Host institution, City. [Details](URL)
+- **YYYY-MM-DD | New publication:** [Paper title](DOI). [Code](URL)
+- **YYYY-MM-DD | Software release:** [Project and version](URL).
+Keep 3–5 recent announcements visible; move older items to NEWS.md if needed.
+-->
 
-- **Spatial & single-cell omics:** spatial transcriptomics, cell-type annotation, tissue niches, and molecular tissue domains
-- **Computational oncology:** tumor microenvironment, breast cancer, cancer cell states, and molecular biomarkers
-- **AI & digital pathology:** deep learning from histology images, gene-expression prediction, and outcome modeling
-- **Multi-omics integration:** linking transcriptomic, genomic, clinical, and imaging modalities
-- **Methods development:** scalable, reproducible Python pipelines for biomedical data analysis
+## About
+
+I am a computational biologist researching **bioinformatics, artificial intelligence, digital pathology, and multi-omics**, with an emphasis on cancer biology and tumor heterogeneity. My work develops and applies methods that integrate histology images, spatially resolved transcriptomics, and single-cell data to characterize cell identities, molecular programs, and tumor–microenvironment interactions.
+
+My research interests include computational oncology, spatial tissue organization, molecular biomarker discovery, and reproducible machine-learning workflows for biomedical research.
+
+## Research areas
+
+| Area | Focus |
+| --- | --- |
+| **Spatial and single-cell omics** | Spatial transcriptomics, cell-type annotation, tissue niches, spatial domains, and cellular neighborhoods |
+| **Computational oncology** | Tumor heterogeneity, cancer cell states, breast cancer, and tumor–immune–stromal interactions |
+| **AI and computational pathology** | Cell-type prediction from H&E images, histopathology deep learning, and image-to-omics integration |
+| **Multi-omics and methods** | Cross-modal data analysis, computational pipelines, gene programs, and biomarker discovery |
+
+## Featured research software
+
+### [Deep-CT: Neighborhood-enhanced cell type prediction](https://github.com/Sapienstw/deep-CT)
+
+Deep-learning research software associated with the 2025 study on **cell type prediction from H&E-stained images using neighborhood-enhanced cellular embeddings**. The project connects cell-level image features with spatial context for histology-based inference.
+
+**Explore:** [Source code](https://github.com/Sapienstw/deep-CT) · [Associated paper](https://doi.org/10.1016/j.csbj.2025.07.026)
 
 ## Selected publications
 
-Selected research publications. Visit [Google Scholar](https://scholar.google.com/citations?user=0bEF7TYAAAAJ&hl=en) for my full publication record and current citation metrics.
+A selection of publications spanning histopathology AI, computational oncology, and multi-omics. For the complete, updated record and citation metrics, visit [Google Scholar](https://scholar.google.com/citations?user=0bEF7TYAAAAJ&hl=en).
 
-1. **Cell type prediction with neighborhood-enhanced cellular embedding using deep learning on hematoxylin and eosin-stained images.** *Computational and Structural Biotechnology Journal* **27**, 3182–3190 (2025). [DOI](https://doi.org/10.1016/j.csbj.2025.07.026) · [Code](https://github.com/Sapienstw/deep-CT)
-2. **Prediction of breast cancer recurrence using a deep convolutional neural network without region-of-interest labeling.** *Frontiers in Oncology.* [Find publication](https://scholar.google.com/scholar?q=Prediction+of+breast+cancer+recurrence+using+a+deep+convolutional+neural+network+without+region-of-interest+labeling)
-3. **Predicting Breast Cancer Gene Expression Signature by Applying Deep Convolutional Neural Networks from Unannotated Pathological Images.** *Frontiers in Oncology* (2021). [Find publication](https://scholar.google.com/scholar?q=Predicting+Breast+Cancer+Gene+Expression+Signature+by+Applying+Deep+Convolutional+Neural+Networks+from+Unannotated+Pathological+Images)
-4. **High-Performance Deep Learning Pipeline Predicts Individuals in Mixtures of DNA Using Sequencing Data.** *Briefings in Bioinformatics.* [DOI](https://doi.org/10.1093/bib/bbab283)
-5. **Role of artificial intelligence in integrated analysis of multi-omics and imaging data in cancer research.** *Translational Cancer Research* (2019). [Find publication](https://scholar.google.com/scholar?q=Role+of+artificial+intelligence+in+integrated+analysis+of+multi-omics+and+imaging+data+in+cancer+research)
-6. **Utilizing multimodal approach to identify candidate pathways and biomarkers and predicting frailty syndrome in individuals from UK Biobank.** *GeroScience* (2024). [Find publication](https://scholar.google.com/scholar?q=Utilizing+multimodal+approach+to+identify+candidate+pathways+and+biomarkers+and+predicting+frailty+syndrome)
+1. **Spatial Transcriptomic Profiling Identifies Epithelial Heterogeneity and a Potential Lineage-Associated Marker in Breast Mucinous Cystadenocarcinoma.** *Oncology Research* (2026, online first). [Paper](https://doi.org/10.32604/or.2026.081243)
+2. **Cell Type Prediction with Neighborhood-Enhanced Cellular Embedding Using Deep Learning on H&E-Stained Images.** *Computational and Structural Biotechnology Journal* **27**, 3182–3190 (2025). [Paper](https://doi.org/10.1016/j.csbj.2025.07.026) · [Code](https://github.com/Sapienstw/deep-CT)
+3. **Prediction of breast cancer recurrence using a deep convolutional neural network without region-of-interest labeling.** *Frontiers in Oncology*. [Find publication](https://scholar.google.com/scholar?q=Prediction+of+breast+cancer+recurrence+using+a+deep+convolutional+neural+network+without+region-of-interest+labeling)
+4. **Predicting Breast Cancer Gene Expression Signature by Applying Deep Convolutional Neural Networks from Unannotated Pathological Images.** *Frontiers in Oncology* (2021). [Find publication](https://scholar.google.com/scholar?q=Predicting+Breast+Cancer+Gene+Expression+Signature+by+Applying+Deep+Convolutional+Neural+Networks+from+Unannotated+Pathological+Images)
+5. **High-Performance Deep Learning Pipeline Predicts Individuals in Mixtures of DNA Using Sequencing Data.** *Briefings in Bioinformatics*. [Paper](https://doi.org/10.1093/bib/bbab283)
+6. **Role of artificial intelligence in integrated analysis of multi-omics and imaging data in cancer research.** *Translational Cancer Research* (2019). [Find publication](https://scholar.google.com/scholar?q=Role+of+artificial+intelligence+in+integrated+analysis+of+multi-omics+and+imaging+data+in+cancer+research)
+7. **Utilizing multimodal approach to identify candidate pathways and biomarkers and predicting frailty syndrome in individuals from UK Biobank.** *GeroScience* (2024). [Find publication](https://scholar.google.com/scholar?q=Utilizing+multimodal+approach+to+identify+candidate+pathways+and+biomarkers+and+predicting+frailty+syndrome)
 
-## Editorial & scientific service
+## Editorial and scientific service
 
-Editorial service and journal contributions:
+Scientific editorial and journal service associated with:
 
-- **[Discover Oncology](https://link.springer.com/journal/12672)** *(Springer Nature)*
-- **[BMC Medical Imaging](https://bmcmedimaging.biomedcentral.com/)**
-- **[BMC Cancer](https://bmccancer.biomedcentral.com/)**
-- **[PLOS ONE](https://journals.plos.org/plosone/)**
-- **[Frontiers in Bioinformatics](https://www.frontiersin.org/journals/bioinformatics)**
-- **[Frontiers in Oncology](https://www.frontiersin.org/journals/oncology)**
+- [Discover Oncology](https://link.springer.com/journal/12672) (Springer Nature)
+- [BMC Medical Imaging](https://bmcmedimaging.biomedcentral.com/)
+- [BMC Cancer](https://bmccancer.biomedcentral.com/)
+- [PLOS ONE](https://journals.plos.org/plosone/)
+- [Frontiers in Bioinformatics](https://www.frontiersin.org/journals/bioinformatics)
+- [Frontiers in Oncology](https://www.frontiersin.org/journals/oncology)
 
-*Specific editorial appointments and service dates can be added when confirmed.*
+*Editorial titles and dates are intentionally omitted until individually confirmed.*
 
-## Featured open-source project
+## Methods and technologies
 
-### [Deep-CT — Neighborhood-enhanced cell type prediction](https://github.com/Sapienstw/deep-CT)
+- **Programming and scientific computing:** Python, R, NumPy, pandas, SciPy, scikit-learn
+- **Single-cell and spatial analysis:** Scanpy, AnnData, Squidpy, Visium, Visium HD, Xenium
+- **AI and image analysis:** Deep learning, convolutional neural networks, computational pathology, cellular image analysis
+- **Computational workflows:** Spatial neighborhood analysis, domain segmentation, gene signatures, multimodal integration
 
-Research code accompanying **“Cell Type Prediction with Neighborhood-Enhanced Cellular Embedding Using Deep Learning on H&E-Stained Images.”** The repository demonstrates cell-image segmentation, cellular neighborhood construction and deep-learning-based cell type prediction for breast and colorectal cancer histology images.
-
-- **Preprocessing:** StarDist segmentation, polygon-based cell image extraction, image padding and spatial K-nearest-neighbor construction
-- **Model applications:** Cell-type prediction from H&E-stained tissue images
-- **Examples:** Demo inputs and prediction scripts for breast and colorectal cancer
-
-[Explore the repository →](https://github.com/Sapienstw/deep-CT)
-
-
-## Computational toolkit
-
-**Languages & scientific computing:** Python · R · NumPy · pandas · SciPy · scikit-learn
-
-**Single-cell & spatial analysis:** Scanpy · AnnData · Squidpy · 10x Visium / Visium HD · Xenium
-
-**Machine learning & imaging:** Deep learning · CNNs · Image analysis · Computational pathology
-
-**Analysis themes:** Spatial clustering · Tissue-domain segmentation · Gene signatures · Biomarker discovery · Multi-modal integration
-
-## Education & recognition
+## Education and recognition
 
 - **PhD**, National Taiwan University (2022)
 - **MSc**, Chinese Culture University, Taiwan (2014)
@@ -77,12 +87,10 @@ Research code accompanying **“Cell Type Prediction with Neighborhood-Enhanced 
 - **Taiwan National Innovation Award** (2023)
 - **Global Young Scientist Summit**, selected participant (2022)
 
-## Connect
+## Connect and collaborate
 
-- [GitHub](https://github.com/Sapienstw)
-- [Google Scholar](https://scholar.google.com/citations?user=0bEF7TYAAAAJ&hl=en)
-- [Institutional research profile](https://opa.uthscsa.edu/postdoc-profiles/nam-phan)
+I welcome scientific discussions and collaborations in computational oncology, spatial omics, computational pathology, and machine learning for biomedical research.
 
----
+[Google Scholar](https://scholar.google.com/citations?user=0bEF7TYAAAAJ&hl=en) · [GitHub repositories](https://github.com/Sapienstw?tab=repositories) · [Institutional profile](https://opa.uthscsa.edu/postdoc-profiles/nam-phan)
 
-<sub>See the linked Google Scholar profile for the full publication record. GitHub activity visuals are provided by an external third-party service and may occasionally be unavailable.</sub>
+
