@@ -59,6 +59,9 @@ A selection of publications spanning histopathology AI, computational oncology, 
 6. **Role of artificial intelligence in integrated analysis of multi-omics and imaging data in cancer research.** *Translational Cancer Research* (2019). [Find publication](https://scholar.google.com/scholar?q=Role+of+artificial+intelligence+in+integrated+analysis+of+multi-omics+and+imaging+data+in+cancer+research)
 7. **Utilizing multimodal approach to identify candidate pathways and biomarkers and predicting frailty syndrome in individuals from UK Biobank.** *GeroScience* (2024). [Find publication](https://scholar.google.com/scholar?q=Utilizing+multimodal+approach+to+identify+candidate+pathways+and+biomarkers+and+predicting+frailty+syndrome)
 
+## Patents
+1. Inventor, Taiwan Patent I783699, method for identifying an individual gene and its deep-learning model, 2022.
+
 ## Editorial and scientific service
 
 Scientific editorial and journal service associated with:
