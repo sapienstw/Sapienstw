@@ -13,6 +13,12 @@
 ---
 
 ## Latest news
+
+- **October 22, 2026 | Editorial Board Appointment**  
+  Appointed as an **Editorial Board Member** of
+  [BMC Medical Imaging](https://bmcmedimaging.biomedcentral.com/),
+  a peer-reviewed, open-access journal published by Springer Nature.
+
 - **New Preprint | bioRxiv**  
   **[Spatial Transcriptomic Profiling Uncovers Tumor Heterogeneity and Microenvironmental Features Associated with Lymph Node Metastasis in Invasive Lobular Carcinoma](https://europepmc.org/article/ppr/ppr1186315)**  
   *Hsu C, Phan NN, et al.*  
