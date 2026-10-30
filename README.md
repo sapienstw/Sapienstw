@@ -6,7 +6,7 @@
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=0bEF7TYAAAAJ&hl=en)
 [![GitHub](https://img.shields.io/badge/GitHub-Sapienstw-181717?style=flat-square&logo=github)](https://github.com/Sapienstw)
-[![Research Profile](https://img.shields.io/badge/Institutional-Research_Profile-555555?style=flat-square)](https://opa.uthscsa.edu/postdoc-profiles/nam-phan)
+
 
 ## About me
 
