@@ -13,6 +13,11 @@
 ---
 
 ## Latest news
+- **New Preprint | bioRxiv**  
+  **[Spatial Transcriptomic Profiling Uncovers Tumor Heterogeneity and Microenvironmental Features Associated with Lymph Node Metastasis in Invasive Lobular Carcinoma](https://europepmc.org/article/ppr/ppr1186315)**  
+  *Hsu C, Phan NN, et al.*  
+  Spatial transcriptomics of primary invasive lobular carcinoma and matched lymph-node metastasis reveals a transition from a fibroblast-rich primary tumor niche to an immune-rich metastatic microenvironment. The study highlights HEPACAM2 and TUSC3 as potential molecular markers associated with tumor progression.  
+  *Preprint — not peer reviewed.*
 
 - **September 2026 | New publication:** [Spatial Transcriptomic Profiling Identifies Epithelial Heterogeneity and a Potential Lineage-Associated Marker in Breast Mucinous Cystadenocarcinoma](https://doi.org/10.32604/or.2026.081243), *Oncology Research* (online first). Using Visium HD spatial transcriptomics, the study characterizes epithelial tumor heterogeneity and identifies **MUC5B** as a potential lineage-associated diagnostic biomarker.
 - **2025 | New publication:** [Cell Type Prediction with Neighborhood-Enhanced Cellular Embedding Using Deep Learning on H&E-Stained Images](https://doi.org/10.1016/j.csbj.2025.07.026), *Computational and Structural Biotechnology Journal*. [Research code: Deep-CT](https://github.com/Sapienstw/deep-CT).
