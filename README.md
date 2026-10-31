@@ -26,6 +26,11 @@
   *Preprint — not peer reviewed.*
 
 - **September 2026 | New publication:** [Spatial Transcriptomic Profiling Identifies Epithelial Heterogeneity and a Potential Lineage-Associated Marker in Breast Mucinous Cystadenocarcinoma](https://doi.org/10.32604/or.2026.081243), *Oncology Research* (online first). Using Visium HD spatial transcriptomics, the study characterizes epithelial tumor heterogeneity and identifies **MUC5B** as a potential lineage-associated diagnostic biomarker.
+
+- **November 2025 | Editorial Board Appointment**  
+  Appointed as an **Editorial Board Member** of
+  [BMC Cancer](https://link.springer.com/journal/12885),
+  a peer-reviewed, open-access journal published by Springer Nature.
 - **2025 | New publication:** [Cell Type Prediction with Neighborhood-Enhanced Cellular Embedding Using Deep Learning on H&E-Stained Images](https://doi.org/10.1016/j.csbj.2025.07.026), *Computational and Structural Biotechnology Journal*. [Research code: Deep-CT](https://github.com/Sapienstw/deep-CT).
 
 <!-- Add future confirmed news above, newest first. Suggested format:
