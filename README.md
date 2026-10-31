@@ -14,7 +14,7 @@
 
 ## Latest news
 
-- **October 22, 2026 | Editorial Board Appointment**  
+- **October, 2026 | Editorial Board Appointment**  
   Appointed as an **Editorial Board Member** of
   [BMC Medical Imaging](https://bmcmedimaging.biomedcentral.com/),
   a peer-reviewed, open-access journal published by Springer Nature.
