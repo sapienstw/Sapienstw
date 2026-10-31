@@ -55,7 +55,7 @@ My research interests include computational oncology, spatial tissue organizatio
 | **AI and computational pathology** | Cell-type prediction from H&E images, histopathology deep learning, and image-to-omics integration |
 | **Multi-omics and methods** | Cross-modal data analysis, computational pipelines, gene programs, and biomarker discovery |
 
-## Featured research software
+## Featured research tool
 
 ### [Deep-CT: Neighborhood-enhanced cell type prediction](https://github.com/Sapienstw/deep-CT)
 
@@ -88,8 +88,6 @@ Scientific editorial and journal service associated with:
 - [PLOS ONE](https://journals.plos.org/plosone/)
 - [Frontiers in Bioinformatics](https://www.frontiersin.org/journals/bioinformatics)
 - [Frontiers in Oncology](https://www.frontiersin.org/journals/oncology)
-
-*Editorial titles and dates are intentionally omitted until individually confirmed.*
 
 ## Methods and technologies
 
