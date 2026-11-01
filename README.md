@@ -55,9 +55,8 @@ My research interests include computational oncology, spatial tissue organizatio
 <img width="1060" height="747" alt="Screenshot 2026-11-01 at 3 24 59 PM" src="https://github.com/user-attachments/assets/4b6dc9c4-c958-43b9-a4d4-425309422cd1" />
 
 
+<img width="1041" height="585" alt="Screenshot 2026-11-01 at 4 57 22 PM" src="https://github.com/user-attachments/assets/fde9010e-f813-4a41-93f6-e3ecbd52a453" />
 
-**Application of Non-Negative Matrix Factorization into Niche Exploration**
-  <img width="1216" height="725" alt="Screenshot 2026-11-01 at 4 51 57 PM" src="https://github.com/user-attachments/assets/b44197cc-7a2a-4902-96eb-e43c196c3490" />
 
 | Area | Focus |
 | --- | --- |
