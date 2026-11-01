@@ -51,6 +51,8 @@ My research interests include computational oncology, spatial tissue organizatio
 | Area | Focus |
 | --- | --- |
 | **Spatial and single-cell omics** | Spatial transcriptomics, cell-type annotation, tissue niches, spatial domains, and cellular neighborhoods |
+
+
 | **Computational oncology** | Tumor heterogeneity, cancer cell states, breast cancer, and tumor–immune–stromal interactions |
 | **AI and computational pathology** | Cell-type prediction from H&E images, histopathology deep learning, and image-to-omics integration |
 | **Multi-omics and methods** | Cross-modal data analysis, computational pipelines, gene programs, and biomarker discovery |
