@@ -93,7 +93,7 @@ Deep-learning research software associated with the 2025 study on **cell type pr
 
 ## Selected publications
 
-A selection of publications spanning histopathology AI, computational oncology, and multi-omics. For the complete, updated record and citation metrics, visit [Google Scholar](https://scholar.google.com/citations?user=0bEF7TYAAAAJ&hl=en) (50+ publication).
+A selection of publications spanning histopathology AI, computational oncology, and multi-omics. For the complete, updated record and citation metrics, visit [Google Scholar](https://scholar.google.com/citations?user=0bEF7TYAAAAJ&hl=en) (50+ publications).
 
 1. **Spatial Transcriptomic Profiling Identifies Epithelial Heterogeneity and a Potential Lineage-Associated Marker in Breast Mucinous Cystadenocarcinoma.** *Oncology Research* (2026, online first). [Paper](https://doi.org/10.32604/or.2026.081243)
 2. **Cell Type Prediction with Neighborhood-Enhanced Cellular Embedding Using Deep Learning on H&E-Stained Images.** *Computational and Structural Biotechnology Journal* **27**, 3182–3190 (2025). [Paper](https://doi.org/10.1016/j.csbj.2025.07.026) · [Code](https://github.com/Sapienstw/deep-CT)
