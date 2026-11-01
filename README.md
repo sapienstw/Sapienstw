@@ -52,7 +52,7 @@ My research interests include computational oncology, spatial tissue organizatio
 | --- | --- |
 | **Spatial and single-cell omics** | **Spatial transcriptomics, cell-type annotation, tissue niches, spatial domains, and cellular neighborhoods** |
 
-<img width="1060" height="747" alt="Screenshot 2026-11-01 at 3 24 59 PM" src="https://github.com/user-attachments/assets/4b6dc9c4-c958-43b9-a4d4-425309422cd1" />
+<img width="1048" height="747" alt="Screenshot 2026-11-01 at 4 58 55 PM" src="https://github.com/user-attachments/assets/0bec85cb-69b9-4432-82b0-cd49bae82878" />
 
 
 <img width="1041" height="585" alt="Screenshot 2026-11-01 at 4 57 22 PM" src="https://github.com/user-attachments/assets/fde9010e-f813-4a41-93f6-e3ecbd52a453" />
