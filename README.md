@@ -56,14 +56,21 @@ My research interests include computational oncology, spatial tissue organizatio
 | Area | Focus |
 | --- | --- |
 | **Computational oncology** | Tumor heterogeneity, cancer cell states, breast cancer, and tumor–immune–stromal interactions |
+<img width="1329" height="735" alt="Screenshot 2026-11-01 at 4 43 56 PM" src="https://github.com/user-attachments/assets/6731c709-90cc-4599-a06b-81969ca6f7c6" />
 
 | Area | Focus |
 | --- | --- |
 | **AI and computational pathology** | Cell-type prediction from H&E images, histopathology deep learning, and image-to-omics integration |
+<img width="1920" height="1080" alt="Fig1_Workflow" src="https://github.com/user-attachments/assets/afa9094f-e27f-4432-abbb-9d422332cdaf" />
 
 | Area | Focus |
 | --- | --- |
 | **Multi-omics and methods** | Cross-modal data analysis, computational pipelines, gene programs, and biomarker discovery |
+
+<img width="898" height="372" alt="Screenshot 2026-11-01 at 4 20 57 PM" src="https://github.com/user-attachments/assets/5d68e2e0-ca78-49e4-a8ae-63ec62833f37" />
+
+**Schematic workflow for the DNA ratio prediction model**
+<img width="1651" height="710" alt="Screenshot 2026-11-01 at 4 19 17 PM" src="https://github.com/user-attachments/assets/f08108b8-ebf2-4ce8-9346-52c1243890e4" />
 
 
 
