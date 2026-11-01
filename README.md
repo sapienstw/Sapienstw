@@ -136,6 +136,6 @@ Scientific editorial and journal service associated with:
 
 I welcome scientific discussions and collaborations in computational oncology, spatial omics, computational pathology, and machine learning for biomedical research.
 
-[Google Scholar](https://scholar.google.com/citations?user=0bEF7TYAAAAJ&hl=en) · [GitHub repositories](https://github.com/Sapienstw?tab=repositories) · [Institutional profile](https://opa.uthscsa.edu/postdoc-profiles/nam-phan) [Email: namphanpro@gmail.com]
+[Google Scholar](https://scholar.google.com/citations?user=0bEF7TYAAAAJ&hl=en) · [GitHub repositories](https://github.com/Sapienstw?tab=repositories) · [Institutional profile](https://opa.uthscsa.edu/postdoc-profiles/nam-phan) [Email] (namphanpro@gmail.com)
 
 
