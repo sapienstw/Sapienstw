@@ -76,7 +76,7 @@ My research interests include computational oncology, spatial tissue organizatio
 
 <img width="898" height="372" alt="Screenshot 2026-11-01 at 4 20 57 PM" src="https://github.com/user-attachments/assets/5d68e2e0-ca78-49e4-a8ae-63ec62833f37" />
 
-**Schematic workflow for the DNA ratio prediction model**
+**Schematic workflow for the DNA ratio prediction model (Taiwan Patent I783699)**
 
 <img width="1651" height="710" alt="Screenshot 2026-11-01 at 4 19 17 PM" src="https://github.com/user-attachments/assets/f08108b8-ebf2-4ce8-9346-52c1243890e4" />
 
