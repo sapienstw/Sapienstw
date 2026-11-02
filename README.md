@@ -48,7 +48,7 @@ My research interests include computational oncology, spatial tissue organizatio
 
 ## Research areas
 
-| Area | Focus |
+| Area #1 | Focus |
 | --- | --- |
 | **Spatial and single-cell omics** | **Spatial transcriptomics, cell-type annotation, tissue niches, spatial domains, and cellular neighborhoods** |
 
@@ -58,20 +58,20 @@ My research interests include computational oncology, spatial tissue organizatio
 <img width="1041" height="585" alt="Screenshot 2026-11-01 at 4 57 22 PM" src="https://github.com/user-attachments/assets/fde9010e-f813-4a41-93f6-e3ecbd52a453" />
 
 
-| Area | Focus |
+| Area #2 | Focus |
 | --- | --- |
 | **Computational oncology** | Tumor heterogeneity, cancer cell states, breast cancer, and tumor–immune–stromal interactions |
 
 <img width="1329" height="735" alt="Screenshot 2026-11-01 at 4 43 56 PM" src="https://github.com/user-attachments/assets/6731c709-90cc-4599-a06b-81969ca6f7c6" />
 
-| Area | Focus |
+| Area #3 | Focus |
 | --- | --- |
 | **AI and computational pathology** | Cell-type prediction from H&E images, histopathology deep learning, and image-to-omics integration |
 
 **PATHOMICS workflow for pathway-guided multi-omics inference from H&E-stained whole-slide images (WSIs) (Under Review)**
 <img width="1920" height="1080" alt="Fig1_Workflow" src="https://github.com/user-attachments/assets/afa9094f-e27f-4432-abbb-9d422332cdaf" />
 
-| Area | Focus |
+| Area #4 | Focus |
 | --- | --- |
 | **Multi-omics and methods** | Cross-modal data analysis, computational pipelines, gene programs, and biomarker discovery |
 
