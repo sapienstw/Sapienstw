@@ -68,6 +68,7 @@ My research interests include computational oncology, spatial tissue organizatio
 | --- | --- |
 | **AI and computational pathology** | Cell-type prediction from H&E images, histopathology deep learning, and image-to-omics integration |
 
+PATHOMICS workflow for pathway-guided multi-omics inference from H&E-stained whole-slide images (WSIs) (Under Review)
 <img width="1920" height="1080" alt="Fig1_Workflow" src="https://github.com/user-attachments/assets/afa9094f-e27f-4432-abbb-9d422332cdaf" />
 
 | Area | Focus |
