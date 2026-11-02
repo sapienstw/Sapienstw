@@ -54,7 +54,7 @@ My research interests include computational oncology, spatial tissue organizatio
 
 <img width="1274" height="349" alt="Screenshot 2026-11-01 at 10 46 19 PM" src="https://github.com/user-attachments/assets/52bd7184-ec62-4888-ba24-1f10dae9dbd1" />
 
-                                        | ----------------------------------------------------------------- |
+                             | ------------------------------------- | ---------------------------- |
 
 <img width="1048" height="743" alt="Screenshot 2026-11-01 at 5 00 11 PM" src="https://github.com/user-attachments/assets/8606de53-e2c9-4c5b-b6a3-8a365ecd97bd" />
 
