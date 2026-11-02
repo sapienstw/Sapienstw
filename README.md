@@ -67,7 +67,8 @@ My research interests include computational oncology, spatial tissue organizatio
 | --- | --- |
 | **Computational oncology** | Tumor heterogeneity, cancer cell states, breast cancer, and tumor–immune–stromal interactions |
 
-<img width="1329" height="735" alt="Screenshot 2026-11-01 at 4 43 56 PM" src="https://github.com/user-attachments/assets/6731c709-90cc-4599-a06b-81969ca6f7c6" />
+<img width="1323" height="602" alt="Screenshot 2026-11-02 at 4 46 40 PM" src="https://github.com/user-attachments/assets/a407db90-f3d2-4e9c-8566-5717f16a1778" />
+
 
 | Area #3 | Focus |
 | --- | --- |
