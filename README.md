@@ -52,6 +52,7 @@ My research interests include computational oncology, spatial tissue organizatio
 | --- | --- |
 | **Spatial and single-cell omics** | **Spatial transcriptomics, cell-type annotation, tissue niches, spatial domains, and cellular neighborhoods** |
 
+
 <img width="1274" height="349" alt="Screenshot 2026-11-01 at 10 46 19 PM" src="https://github.com/user-attachments/assets/52bd7184-ec62-4888-ba24-1f10dae9dbd1" />
 
                                     
@@ -67,19 +68,25 @@ My research interests include computational oncology, spatial tissue organizatio
 | --- | --- |
 | **Computational oncology** | Tumor heterogeneity, cancer cell states, breast cancer, and tumor–immune–stromal interactions |
 
+
 <img width="1323" height="602" alt="Screenshot 2026-11-02 at 4 46 40 PM" src="https://github.com/user-attachments/assets/a407db90-f3d2-4e9c-8566-5717f16a1778" />
+
 
 
 | Area #3 | Focus |
 | --- | --- |
 | **AI and computational pathology** | Cell-type prediction from H&E images, histopathology deep learning, and image-to-omics integration |
 
+
 **PATHOMICS workflow for pathway-guided multi-omics inference from H&E-stained whole-slide images (WSIs) (Under Review)**
 <img width="1920" height="1080" alt="Fig1_Workflow" src="https://github.com/user-attachments/assets/afa9094f-e27f-4432-abbb-9d422332cdaf" />
+
+
 
 | Area #4 | Focus |
 | --- | --- |
 | **Multi-omics and methods** | Cross-modal data analysis, computational pipelines, gene programs, and biomarker discovery |
+
 
 **From Pixels To Genes: My Path in AI-Driven Cancer Research**
 <img width="898" height="372" alt="Screenshot 2026-11-01 at 4 20 57 PM" src="https://github.com/user-attachments/assets/5d68e2e0-ca78-49e4-a8ae-63ec62833f37" />
